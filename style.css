@@ -1,0 +1,109 @@
+.intro {
+    border: 1px solid;
+    text-align: center;
+    width: 800px;
+    height: 300px;
+
+
+}
+
+.img {
+    border: 1px solid black;
+    text-align: left;
+    position: relative;
+    right: 250px;
+    width: 250px;
+    height: 170px;
+
+}
+
+.para {
+    text-align: center;
+    font-size: x-large;
+    position: relative;
+    left: 100px;
+    bottom: 120px;
+
+
+}
+
+.head {
+    border: 1px solid;
+    text-align: center;
+    width: 800px;
+    height: 420px;
+
+}
+
+.box1 {
+    text-align: center;
+    border: 1px solid;
+    display: inline-block;
+    width: 230px;
+    height: 130px;
+    margin: 10px;
+    padding-top: 5px;
+    font-size: large;
+}
+
+.box2 {
+    text-align: center;
+    border: 1px solid;
+    display: inline-block;
+    width: 230px;
+    height: 130px;
+    margin: 10px;
+    padding-top: 5px;
+    font-size: large;
+    position: relative; bottom: 20px;
+
+
+}
+
+.box3 {
+    text-align: center;
+    border: 1px solid;
+    display: inline-block;
+    width: 230px;
+    height: 130px;
+    margin: 10px;
+    padding-top: 5px;
+    font-size: large;
+    position: relative; bottom: 20px;
+}
+
+.box4 {
+    text-align: center;
+    border: 1px solid;
+    width: 230px;
+    height: 130px;
+    display: inline-block;
+    margin: 10px;
+    padding-top: 5px;
+    font-size: large;
+    position:  relative; bottom: 15px;
+}
+
+.box5 {
+    text-align: center;
+    border: 1px solid;
+    width: 230px;
+    height: 130px;
+    display: inline-block;
+    margin: 10px;
+    padding-top: 5px;
+    font-size: large;
+    position: relative; bottom: 35px;
+}
+
+.box6 {
+    text-align: center;
+    border: 1px solid;
+    width: 230px;
+    height: 130px;
+    display: inline-block;
+    margin: 10px;
+    padding-top: 5px;
+    font-size: large;
+    position: relative; bottom: 35px;
+}
